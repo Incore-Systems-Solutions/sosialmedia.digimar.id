@@ -9,7 +9,7 @@ return [
     'slide_2_title' => 'Struggling to manage all your Social Media and WhatsApp accounts?',
     'slide_2_desc' => 'Digimar helps you manage all social media and WhatsApp messages from one dashboard. No need to switch apps. All-in-one. You can even get help from AI.',
 
-    'slide_3_title' => 'socialmedia.digimar.id - One Hub for All Your Social Media',
+    'slide_3_title' => 'sosialmedia.digimar.id - One Hub for All Your Social Media',
     'slide_3_desc' => 'Manage, schedule, and analyze all your social media accounts from one integrated dashboard with Digimar.',
 
 ];
